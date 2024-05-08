@@ -1,5 +1,8 @@
 _repo: Little-rays-of-moonshine_73390
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73390-h/images/cover.jpg
 creator:
   author:
     agent_name: Herbert, A. P. (Alan Patrick)
@@ -12,6 +15,8 @@ creator:
 description: 'Also published with title: Light articles only.
 
   "Most of these pieces have appeared in the pages of Punch."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73390#Little-rays-of-moonshine
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
